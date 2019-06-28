@@ -11,8 +11,8 @@ class Lib
 {
     public function exec()
     {
+        echo "This is func module.\n";
         $base = new \Flancer64\HabrCvN\Base\Lib();
         $base->init();
-        echo "This is func module.";
     }
 }
