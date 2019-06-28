@@ -1,2 +1,3 @@
 # habr-cvsn-mod-func
-Demo for Habr: business functions module 
+
+Demo for Habr: business functions module.

@@ -1,0 +1,13 @@
+{
+  "name": "habr-cvsn-mod-func",
+  "version": "0.1.0",
+  "description": "Demo for Habr: business functions module.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flancer64/habr-cvsn-mod-func.git"
+  },
+  "author": "Alex Gusev",
+  "license": "GPL-3.0",
+  "dependencies": {}
+}
